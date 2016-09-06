@@ -29,6 +29,7 @@ namespace Clase3
             FrmPrincipal Padre = (FrmPrincipal)this.MdiParent;
             if (Padre.nombreDelObjetoTipoDelegadoString != null)
             {
+                //
                 Padre.nombreDelObjetoTipoDelegadoString(this.txtMensaje.Text);
             }
         }
