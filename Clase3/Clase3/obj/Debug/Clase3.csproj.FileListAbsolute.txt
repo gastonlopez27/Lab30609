@@ -1,0 +1,11 @@
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\bin\Debug\Clase3.exe.config
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\bin\Debug\Clase3.exe
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\bin\Debug\Clase3.pdb
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.FrmPrincipal.resources
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.FrmDestino.resources
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.FrmOrigen.resources
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.Properties.Resources.resources
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.exe
+C:\xampp\htdocs\Lab30609\Clase3\Clase3\obj\Debug\Clase3.pdb
