@@ -30,7 +30,7 @@ namespace Clase3
             if (Padre.nombreDelObjetoTipoDelegadoString != null)
             {
                 //
-                Padre.nombreDelObjetoTipoDelegadoString(this.txtMensaje.Text);
+                Padre.nombreDelObjetoTipoDelegadoString(txtMensaje.Text);
             }
         }
     }
