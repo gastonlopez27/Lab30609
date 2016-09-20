@@ -6,3 +6,5 @@ C:\xampp\htdocs\Lab30609\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.Propertie
 C:\xampp\htdocs\Lab30609\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.csproj.GenerateResource.Cache
 C:\xampp\htdocs\Lab30609\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.exe
 C:\xampp\htdocs\Lab30609\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.pdb
+C:\xampp\htdocs\Lab30609\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.FrmDatos.resources
+C:\xampp\htdocs\Lab30609\Aplicacion1\Aplicacion1\obj\Debug\Aplicacion1.FrmTestDelegados.resources

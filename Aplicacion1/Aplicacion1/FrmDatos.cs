@@ -19,13 +19,20 @@ namespace Aplicacion1
 
         private void FrmDatos_Load(object sender, EventArgs e)
         {
-            FrmPrincipal Dueño = (FrmPrincipal)this.Owner;
-            Dueño
+            frmPrincipal Dueño = (frmPrincipal)this.MdiParent;
+            Dueño.miDelegado = this.ActualizarNombre;
+            
         }
 
         public void ActualizarNombre(string nombre)
         {
             this.label1.Text = nombre;
         }
+
+        public void AcualizarFoto(string ruta)
+        {
+            this.pictureBox1.ImageLocation = ruta;
+        }
+       
     }
 }
